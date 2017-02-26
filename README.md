@@ -1,2 +1,2 @@
 # PcNmrAL1-microarray-scripts
-Scripts used to normalise micorarray data and DEG analysis
+Scripts used to normalise microarray data and for DEG analysis
